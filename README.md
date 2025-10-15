@@ -3,7 +3,7 @@
 ## Basic Info 
 **Name:** Selena Marwaha 
 
-**Age:** 10  
+**Age:** 11  
 **Grade:** 5  
 
 **Nationality:** Indian  
@@ -11,7 +11,7 @@
 
 
 ### About Me
-I am Selena, a curious 10-year-old who loves technology, coding, and finding ways to solve important problems with simple ideas. My dream is to have every child in the world have access to technology and the chance to innovate.  
+I am Selena, a curious 11-year-old who loves technology, coding, and finding ways to solve important problems with simple ideas. My dream is to have every child in the world have access to technology and the chance to innovate.  
 
 
 ## Speaking Highlights  
