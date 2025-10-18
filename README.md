@@ -38,7 +38,7 @@ During Conference of the Parties in 2024, at age 10, I did a talk about educatio
 Talk: *Education as the Key Driver to Empower the Next Generation of Changemakers*  
 Panel: *Headline event with YOUNGO and high-level delegates, where I spoke about the importance of quality education in underprivileged areas*
 
-<img src="./assets/bullets/tear.png" width="21px"> **World Youth Skills Day – UNESCO, Paris** <img src="./assets/bullets/tear.png" width="21px"> 
+<img src="./assets/bullets/emerald.png" width="21px"> **World Youth Skills Day – UNESCO, Paris** <img src="./assets/bullets/emerald.png" width="21px"> 
 
 In July 2025, I attended an event held by UNESCO for World Youth Skills Day at the Learning Planet Institute in Paris. Here, I spoke about how digital tools connect us globally, create opportunities to work with mentors, and allow kids to collaborate on projects around the world.
 
@@ -63,16 +63,16 @@ This initiative transforms e-waste donations and community partnerships into mak
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/melon.png" width="17px"> **SIWI Stockholm International Water Award**
 
-    Age: 8
+&nbsp;&nbsp;&nbsp;&nbsp;Age: 8
 
-    Description: For this award, I was the youngest and only female finalist in my category. Awarded this for making a water saving toilet that cuts water waste by up to 35% per flush. 
+&nbsp;&nbsp;&nbsp;&nbsp;Description: For this award, I was the youngest and only female finalist in my category. Awarded this for making a water saving toilet that cuts water waste by up to 35% per flush. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/honeycomb.png" width="17px"> **Press Feature** 
 
-    Age: 10 
+&nbsp;&nbsp;&nbsp;&nbsp;Age: 10 
 
-    Description: Featured in international press as “A 10-year-old leading the Technological Revolution across the International Stage” 
+&nbsp;&nbsp;&nbsp;&nbsp;Description: Featured in international press as “A 10-year-old leading the Technological Revolution across the International Stage” 
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/sea.png" width="17px"> **Miscellaneous**
 
-    Description: Multiple technology and innovation awards for projects combining sustainability and accessibility  
+&nbsp;&nbsp;&nbsp;&nbsp;Description: Multiple technology and innovation awards for projects combining sustainability and accessibility  
