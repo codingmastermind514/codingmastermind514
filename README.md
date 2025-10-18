@@ -53,26 +53,26 @@ This initiative transforms e-waste donations and community partnerships into mak
 **Why it matters:** Many children from underprivileged schools receive their first computer through these hubs. This gives them a new chance for learning and innovation.
 
 **Impact so far:**  
-- The first hub was launched in Uganda, where students created a food dehydrator for tomatoes. This project was selected as a finalist in the Zayed Sustainability Prize. 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/potato.png" width="17px"> The first hub was launched in Uganda, where students created a food dehydrator for tomatoes. This project was selected as a finalist in the Zayed Sustainability Prize. 
 
-- The initiative is expanding to the Philippines, where new hubs are being built in schools so rural students have to paddle across a river to get there! 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/honeybottle.png" width="17px"> The initiative is expanding to the Philippines, where new hubs are being built in schools so rural students have to paddle across a river to get there! 
 
 **How it works:** We hold donation drives, collect monitors, PCs, laptops, tools, craft supplies, and more. We bring these to under-funded schools to create maker spaces and tech rooms. Older students act as mentors, younger students learn from them, and together they create meaningful projects that make a lasting impact in their communities.  
 
 ## Awards & Recognition  
 
-- **SIWI Stockholm International Water Award**
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/melon.png" width="17px"> **SIWI Stockholm International Water Award**
 
     Age: 8
 
     Description: For this award, I was the youngest and only female finalist in my category. Awarded this for making a water saving toilet that cuts water waste by up to 35% per flush. 
 
-- **Press Feature** 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/honeycomb.png" width="17px"> **Press Feature** 
 
     Age: 10 
 
     Description: Featured in international press as “A 10-year-old leading the Technological Revolution across the International Stage” 
 
-- **Miscellaneous**
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/sea.png" width="17px"> **Miscellaneous**
 
     Description: Multiple technology and innovation awards for projects combining sustainability and accessibility  
