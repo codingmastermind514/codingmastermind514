@@ -19,7 +19,7 @@ I am Selena, a curious 11-year-old who loves technology, coding, and finding way
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/smithing.png" width="17px"> **Programming Languages**: Python, HTML, CSS
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/enchanted.png" width="17px"> **Libraries**: `pygame`, `csv`, `tkinter`, `requests`, `json`, `random`, `sys`, `pillow`, `cowsay`, `inflect`
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/enchanted.png" width="17px"> **Libraries**: `pygame`, `csv`, `tkinter`, `requests`, `json`, `random`, `sys`, `pillow`, `cowsay`, `pandas`, `inflect`
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/melonslice.png" width="17px"> **Hobbies**: Horse-riding, drawing, collecting stickers
 
