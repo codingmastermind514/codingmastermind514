@@ -13,7 +13,7 @@ I am Selena, a curious 11-year-old who loves technology, coding, and finding way
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/pufferfish.png" width="17px"> **Location:** Dubai, UAE  
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/dragonbreath.png" width="17px"> **Languages**: English (Native), French (Intermediate), Hindi (Intermediate) 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/dragonbreath.png" width="17px"> **Languages**: English (Native), French (Fluent), Hindi (Intermediate), Arabic(Beginner)
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/brownbook.png" width="17px"> **Coursework**: Harvard CS50 Python via edX 
 
@@ -21,7 +21,7 @@ I am Selena, a curious 11-year-old who loves technology, coding, and finding way
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/enchanted.png" width="17px"> **Libraries**: `pygame`, `csv`, `tkinter`, `requests`, `json`, `random`, `sys`, `pillow`, `cowsay`, `pandas`, `inflect`, `numpy`
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/melonslice.png" width="17px"> **Hobbies**: Horse-riding, drawing, collecting stickers
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/melonslice.png" width="17px"> **Hobbies**: Crocheting(ish), drawing, collecting stickers
 
 ## <img src="./assets/bullets/fish.png" width="17px"> Speaking Highlights <img src="./assets/bullets/fish.png" width="17px">  
 
