@@ -1,11 +1,11 @@
 # <img src="./assets/bullets/magmacream.png" width="30px"> Hi There! I'm Selena! <img src="./assets/bullets/magmacream.png" width="30px">
 <img src = "./assets/images/banner.png" >
-I am Selena, a curious 11-year-old who loves technology, coding, and finding ways to solve important problems with simple ideas. My dream is to have every child in the world have access to technology and the chance to innovate.  
+I am Selena, a curious 12-year-old who loves technology, coding, and finding ways to solve important problems with simple ideas. My dream is to have every child in the world have access to technology and the chance to innovate.  
 
 ## <img src="./assets/bullets/diamond.png" width="17px"> About Me <img src="./assets/bullets/diamond.png" width="17px"> 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/apple.png" width="17px"> **Name:** Selena Marwaha 
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/emerald.png" width="17px"> **Age:** 11  
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/emerald.png" width="17px"> **Age:** 12
 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/bullets/book.png" width="17px"> **Grade:** 5  
 
